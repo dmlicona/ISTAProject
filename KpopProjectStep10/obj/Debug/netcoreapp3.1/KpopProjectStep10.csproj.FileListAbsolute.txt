@@ -1,0 +1,13 @@
+C:\Users\denys\ISTAProject\KpopProjectStep10\bin\Debug\netcoreapp3.1\KpopProjectStep10.exe
+C:\Users\denys\ISTAProject\KpopProjectStep10\bin\Debug\netcoreapp3.1\KpopProjectStep10.deps.json
+C:\Users\denys\ISTAProject\KpopProjectStep10\bin\Debug\netcoreapp3.1\KpopProjectStep10.runtimeconfig.json
+C:\Users\denys\ISTAProject\KpopProjectStep10\bin\Debug\netcoreapp3.1\KpopProjectStep10.runtimeconfig.dev.json
+C:\Users\denys\ISTAProject\KpopProjectStep10\bin\Debug\netcoreapp3.1\KpopProjectStep10.dll
+C:\Users\denys\ISTAProject\KpopProjectStep10\bin\Debug\netcoreapp3.1\KpopProjectStep10.pdb
+C:\Users\denys\ISTAProject\KpopProjectStep10\obj\Debug\netcoreapp3.1\KpopProjectStep10.csprojAssemblyReference.cache
+C:\Users\denys\ISTAProject\KpopProjectStep10\obj\Debug\netcoreapp3.1\KpopProjectStep10.AssemblyInfoInputs.cache
+C:\Users\denys\ISTAProject\KpopProjectStep10\obj\Debug\netcoreapp3.1\KpopProjectStep10.AssemblyInfo.cs
+C:\Users\denys\ISTAProject\KpopProjectStep10\obj\Debug\netcoreapp3.1\KpopProjectStep10.dll
+C:\Users\denys\ISTAProject\KpopProjectStep10\obj\Debug\netcoreapp3.1\KpopProjectStep10.pdb
+C:\Users\denys\ISTAProject\KpopProjectStep10\obj\Debug\netcoreapp3.1\KpopProjectStep10.csproj.CoreCompileInputs.cache
+C:\Users\denys\ISTAProject\KpopProjectStep10\obj\Debug\netcoreapp3.1\KpopProjectStep10.genruntimeconfig.cache

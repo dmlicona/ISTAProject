@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KpopProjectStep10", "KpopProjectStep10.csproj", "{503A42B4-EE16-4EAA-AA07-8937C9D32024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{503A42B4-EE16-4EAA-AA07-8937C9D32024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503A42B4-EE16-4EAA-AA07-8937C9D32024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503A42B4-EE16-4EAA-AA07-8937C9D32024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503A42B4-EE16-4EAA-AA07-8937C9D32024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D78F4224-5502-4BB3-A43F-73F540761BB7}
+	EndGlobalSection
+EndGlobal
